@@ -1,0 +1,13 @@
+{
+    "name": "user/rajbro",
+    "description": "Rajbro",
+    "require-dev": {
+        "rajakannan/paypal": "^1.6"
+    },
+    "require": {},
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+}
